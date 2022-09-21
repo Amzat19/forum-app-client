@@ -28,3 +28,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Deployed on AWS Ubuntu EC2 instance.
 
 Application is deployed on [this url](http://54.84.221.246);
+
+Additional suggestions or advice came come in!.
